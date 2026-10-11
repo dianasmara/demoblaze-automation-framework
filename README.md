@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Framework Architecture](#framework-architecture)
@@ -433,7 +433,7 @@ Automatically generated at:
 
 ---
 
-## 📊 Test Case Documentation
+##  Test Case Documentation
 
 See the accompanying Google Sheet / Excel for the full test case matrix:
 - **Login Module**: 55 test cases
@@ -442,7 +442,7 @@ See the accompanying Google Sheet / Excel for the full test case matrix:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Branch from `develop`
 2. Write tests following POM pattern
@@ -452,3 +452,7 @@ See the accompanying Google Sheet / Excel for the full test case matrix:
 ---
 
 *Built with ❤️ for the QA Automation Challenge*
+
+<!-- 
+NOTE: FOR CROSS PLATFORM BROWSER CAN CHANGE IN "playwright.config.js"
+ -->
